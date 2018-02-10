@@ -52,6 +52,10 @@ main .wrapper {
   font-size: 2rem;
   color: #20212D; }
 
+.page-heading,
+.post-title {
+  font-family: "klinic_slab-medium"; }
+
 .post-content a {
   color: #900808; }
 

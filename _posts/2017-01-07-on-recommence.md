@@ -2,7 +2,7 @@
 layout: post
 title:  "On recommence"
 date:   2017-01-07 19:07:54 +0200
-categories: blog
+categories: perso
 ---
 
 Un blog, ce truc qu'on avait tous en 2006 en fin de DUT. Après il y a eu celui de ma vie en Angleterre.
