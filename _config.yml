@@ -18,8 +18,8 @@ email: erick@entre-quote.com
 lang: fr
 description: > # this means to ignore newlines until "baseurl:"
   Un blog pour expérimenter, partager, donner mon avis sur l'intégration HTML/CSS à la base, d'autres sujets pourront suivre.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/cookbook" # the subpath of your site, e.g. /blog
+url: "https://newick.github.io" # the base hostname & protocol for your site
 permalink: :year/:month/:title/
 
 # Build settings
