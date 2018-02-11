@@ -23,14 +23,14 @@ body {
   color: $blue;
 }
 
-.wrapper:after, 
+.wrapper:after,
 .footer-col-wrapper:after {
   display: none;
 }
 
 .site-header {
   padding: 10px 0;
-  font-family: $font-medium; 
+  font-family: $font-medium;
   background-color: $blue;
   border: none;
 
@@ -66,7 +66,6 @@ main {
     padding: 20px;
     background-color: #fff;
   }
-
 }
 
 .page-heading {
@@ -74,8 +73,13 @@ main {
   color: $blue;
 }
 
+.page-heading,
+.post-title {
+    font-family: $font-medium;
+}
+
 .post-content {
-    
+
   a {
     color: $link;
   }
@@ -91,11 +95,11 @@ main {
 
 @media screen and (max-width: 600px) {
   .site-header {
-    
+
     .wrapper {
       flex-direction: column;
     }
-    
+
     img {
       margin: 1rem auto;
     }
@@ -107,7 +111,7 @@ main {
     text-align: center;
     line-height: 1.25;
   }
-  
+
   .site-nav {
     position: relative;
     align-self: flex-end;
@@ -115,5 +119,5 @@ main {
     background: none;
     border: none;
   }
-  
+
 }
