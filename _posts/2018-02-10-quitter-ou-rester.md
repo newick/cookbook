@@ -24,7 +24,7 @@ Alors depuis un moment je me suis moins impliqué, moins l'envie, plus la même 
 
 Je suis très content qu'il y ait une équipe qui reprenne le flambeau, déjà depuis un moment. Certains sont là depuis très longtemps, d'autres depuis très peu et je leur fais confiance pour faire un truc avec les coworkers qui ressemble à ce qu'ils recherchent tous. Et le collège solidaire, en soit, on s'en tamponne, participe qui a envie à la hauteur de ses envies, de son temps. Je continuerai à donner mon avis si j'en ai la foi, l'énergie, ou tout simplement l'envie et surtout si on me le demande.
 
-Ce dont je suis sûr c'est que je suis prêt à recréer des projets avec des gens, pour les gens.  
+**Ce dont je suis sûr c'est que je suis prêt à recréer des projets avec des gens, pour les gens.**  
 Je n'abandonne pas celui-là, je m'en éloigne un peu. J'ai aussi envie de l'utiliser comme terrain d'expérimentation sur des nouveaux trucs et prendre de la distance me permettra surement de le voir différemment.
 
 - - -
